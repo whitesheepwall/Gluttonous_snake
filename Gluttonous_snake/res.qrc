@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/BoardNode(1).png</file>
+        <file>res/body.png</file>
+        <file>res/food.png</file>
+        <file>res/head.png</file>
+    </qresource>
+</RCC>
